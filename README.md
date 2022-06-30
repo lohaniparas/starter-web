@@ -16,5 +16,4 @@ sdlkas
 
 asd
 addinfd deadsfrklj 
-oar
 \paras
